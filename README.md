@@ -1,16 +1,23 @@
-## Hi there 👋
+# Abhay Chauhan
 
-<!--
-**ZaOldenzal/ZaOldenzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Researcher / Engineer at Samsung Research**
+*Specializing in Computer Vision & Deep Learning*
 
-Here are some ideas to get you started:
+I am an AI researcher and engineer focused on developing state-of-the-art solutions in Computer Vision and Deep Learning. My work focuses on building high-performance inference engines and scalable MLOps pipelines to bring state-of-the-art models to real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ðŸ”¬ Research Interests
+*   **Computer Vision:** Image processing, object detection, and aesthetic face relighting.
+*   **Deep Learning:** Neural network architecture, attention mechanisms, and model optimization.
+*   **AI Systems:** Scalable machine learning pipelines and real-time inference.
+
+### ðŸŽ“ Professional Background
+*   **Samsung Research** | Researcher / Engineer
+    *   Developing advanced AI features for global consumer electronics.
+    *   Published researcher in top-tier computer vision conferences (WACV, etc.).
+
+### ðŸ“š Selected Publications
+*   **Multi-level Attention Aggregation for Aesthetic Face Relighting** (WACV 2024)
+    *   Exploring multi-level attention for enhancing facial image aesthetics.
+
+---
+ðŸ“« **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/abhay-chauhan-295983182/) | [Email](mailto:chauhan.ab@samsung.com)
